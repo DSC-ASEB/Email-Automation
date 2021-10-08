@@ -1,0 +1,2 @@
+abc@xyz.com https://google.com
+xzy@abc.com https://microsoft.com
