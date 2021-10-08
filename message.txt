@@ -1,0 +1,4 @@
+Hey!
+
+Your email is: ${email}
+Your link is: ${link}
